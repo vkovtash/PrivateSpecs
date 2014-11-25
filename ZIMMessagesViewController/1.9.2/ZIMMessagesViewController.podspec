@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.resources = 'VKMessagesViewController/Resources/*.png', 'VKMessagesViewController/DefaultStyle/Resources/*.png'
   
   s.dependency 'TTTAttributedLabel', '~> 1.11'
-  s.dependency 'ZIMInputToolbar', '~> 0.3.5'
+  s.dependency 'ZIMInputToolbar', '~> 0.5-beta1'
 end
